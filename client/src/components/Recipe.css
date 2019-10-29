@@ -1,0 +1,35 @@
+@import url("../App.css");
+
+.Recipe {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0px;
+}
+
+.title {
+  font-family: var(--header-font);
+  font-size: 28px;
+  color: #23ac9b;
+  margin-bottom: 20px;
+  line-height: 1.1em;
+}
+
+.tagline {
+  font-family: var(--text-font);
+  font-size: 16px;
+  margin: 10px 0px;
+}
+
+.images {
+  display: flex;
+}
+
+.image-ingredients {
+  max-width: 60%;
+  flex: 1 1 auto;
+}
+
+.image-chow {
+  max-width: 40%;
+  flex: 1 1 auto;
+}

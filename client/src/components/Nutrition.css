@@ -1,0 +1,28 @@
+.Nutrition {
+    margin: 10px 20px;
+}
+
+.nutrition-table {
+    border-collapse: collapse;
+}
+
+.nutrition-row{
+    border: 1px solid black;
+}
+
+.nutrition-cell {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.fat {
+    color: #f06324;
+}
+
+.protein {
+    color: #23ac9b
+}
+
+.carbs {
+    color: #e2d16e
+}

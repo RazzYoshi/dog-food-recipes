@@ -1,0 +1,12 @@
+@import url("../App.css");
+
+.ingredient-name {
+  font-family: var(--subtitle-font);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.ingredient-info {
+  font-family: var(--text-font);
+  font-size: 16px;
+}

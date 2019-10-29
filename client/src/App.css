@@ -1,0 +1,26 @@
+:root {
+  --header-font: "Noto Serif TC", "Arial Black", Helvetica, sans-serif;
+  --subheader-font: "Noto Serif TC", Helvetica, sans-serif;
+  --text-font: "Noto Serif TC", Helvetica;
+}
+
+.App {
+  background-color: #fbfbfb;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.gutter{
+  max-width: 20vw;
+  flex: 1 1 auto;
+}
+
+.recipe{
+  max-width: 60vw;
+  min-width: 460px;
+  flex: 1 1 auto;
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "12aft12",
+    "title": "Heartland Beef Mash",
+    "ingredientsImg": "ingredient_bowls_beef.jpg",
+    "chowImg": "bowl_beef_square.jpg",
+    "tagline": "Dogs are bonkers for this beef recipe. All natural and gluten-free, this is a hit with dogs of all shapes and sizes.",
+    "ingredients": [
+      {"name": "Ground beef",
+      "info": "Protein, vitamins & minerals for strong bones"},
+      {"name": "Potatoes",
+      "info": "Energy producing & potassium packed"},
+      {"name": "Carrots",
+      "info": "Vitamin A - and more - for keeping eyes health"},
+      {"name": "Peas",
+      "info": "Fiber. Vitamin A, C, K & B6, and minerals galore"},
+      {"name": "Egg",
+      "info": "Exactly the protein, calcium, iron & zinc dogs need"},
+      {"name": "NomNomNutrient Mix",
+      "info": "Expertly formulated nutrition blend"},
+      {"name": "Fish oil",
+      "info": "Omega Fatty Acids for a healthy coat"}
+    ],
+    "video": {
+      "url": "https://youtube.com/watch?v=TB3vPIhsf3E",
+      "name": "Watch Dr. Justin Shmalberg",
+      "description": " explain why we use these ingredients"
+    },
+    "nutrition": {
+      "protein": {
+        "grams": 100,
+        "percent": 28
+      },
+      "fat": {
+        "grams": 48,
+        "percent": 53
+      },
+      "carbs": {
+        "grams": 71,
+        "percent": 19
+      }
+    }
+  },
+  {
+    "id": "23aft23",
+    "title": "Tasty Turkey Fare",
+    "ingredientsImg": "ingredient_bowls_turkey.jpg",
+    "chowImg": "bowl_turkey_square.jpg",
+    "tagline": "We've yet to meet a dog that hasn’t gobbled up the restaurant-quality ingredients in this gluten-free, fabulous meal!",
+    "ingredients": [
+      {"name": "Ground turkey",
+      "info": "Excellent source of protein"},
+      {"name": "Brown rice",
+      "info": "Carb & mineral morsels to keep up energy"},
+      {"name": "Carrots",
+      "info": "Vitamin A - and more - for keeping eyes health"},
+      {"name": "Spinach",
+      "info": "Full of dietary fiber, vitamins, folate & manganese"},
+      {"name": "Egg",
+      "info": "Exactly the protein, calcium, iron & zinc dogs need"},
+      {"name": "NomNomNutrient Mix",
+      "info": "Expertly formulated nutrition blend"},
+      {"name": "Fish oil",
+      "info": "Omega Fatty Acids for a healthy coat"}
+    ],
+    "video": {
+      "url": "https://youtube.com/watch?v=LnOYFXs1WlM",
+      "name": "Watch Dr. Justin Shmalberg",
+      "description": " explain why we use these ingredients"
+    },
+    "nutrition": {
+      "protein": {
+        "grams": 84,
+        "percent": 34
+      },
+      "fat": {
+        "grams": 44,
+        "percent": 39
+      },
+      "carbs": {
+        "grams": 96,
+        "percent": 27
+      }
+    }
+  },
+  {
+    "id": "34aft34",
+    "title": "Chicken Chow-Wow",
+    "ingredientsImg": "ingredient_bowls_chicken.jpg",
+    "chowImg": "bowl_chicken_square.jpg",
+    "tagline": "Dogs chow down on our Chicken Chow-Wow. The ingredients are as diverse in nutrients as they are in color.",
+    "ingredients": [
+      {"name": "Dried turkey",
+      "info": "Protein, vitamins, and Minerals"},
+      {"name": "Sweet potatoes",
+      "info": "Vitamins A, B6 & C along with fiber, potassium and manganese makes these tasty morsels a superfood"},
+      {"name": "Yellow squash",
+      "info": "Fiber, vitamins B6, C & K, magnesium and potassium"},
+      {"name": "Spinach",
+      "info": "Full of dietary fiber, vitamins, folate & manganese"},
+      {"name": "NomNomNutrient Mix",
+      "info": "Expertly formulated nutrition blend"},
+      {"name": "Fish oil",
+      "info": "Omega Fatty Acids for a healthy coat"}
+    ],
+    "video": {
+      "url": "https://youtube.com/watch?v=YevgPRagpsE",
+      "name": "Watch Dr. Justin Shmalberg",
+      "description": " explain why we use these ingredients"
+    },
+    "nutrition": {
+      "protein": {
+        "grams": 84,
+        "percent": 40
+      },
+      "fat": {
+        "grams": 59,
+        "percent": 49
+      },
+      "carbs": {
+        "grams": 59,
+        "percent": 11
+      }
+    }
+  },
+  {
+    "id": "45aft45",
+    "title": "Porkalicious Potluck",
+    "ingredientsImg": "ingredient_bowls_pork.jpg",
+    "chowImg": "bowl_pork_square.jpg",
+    "tagline": "The name says it all! This pork dish is packed with enough tasty, all-natural ingredients to host its own potluck.",
+    "ingredients": [
+      {"name": "Pork",
+      "info": "Protein, Vitamin B6 & minerals"},
+      {"name": "Potatoes",
+      "info": "Energy producing & potassium packed"},
+      {"name": "Kale",
+      "info": "A superfood for your dog's diet"},
+      {"name": "Green beans",
+      "info": "Fiber, Vitamins A, C, K & minerals galore"},
+      {"name": "Yellow squash",
+        "info": "Fiber, vitamins B6, C & K, magnesium and potassium"},
+      {"name": "Mushrooms",
+      "info": "Phosphorus, Potassium, Zinc, Copper & Manganese"},
+      {"name": "NomNomNutrient Mix",
+      "info": "Expertly formulated nutrition blend"},
+      {"name": "Fish oil",
+      "info": "Omega Fatty Acids for a healthy coat"}
+    ],
+    "video": {
+      "url": "https://youtube.com/watch?v=LPnF77Zp3k0",
+      "name": "Watch Dr. Justin Shmalberg",
+      "description": " explain why we use these ingredients"
+    },
+    "nutrition": {
+      "protein": {
+        "grams": 75,
+        "percent": 27
+      },
+      "fat": {
+        "grams": 55,
+        "percent": 54
+      },
+      "carbs": {
+        "grams": 78,
+        "percent": 20
+      }
+    }
+  }
+]
